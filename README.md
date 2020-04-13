@@ -1,5 +1,5 @@
 # closure-challenges
-clouse challenges found on FEM
+closure challenges found on FEM
 THIS ARE THE CHALLENGES TO SOLVE IN closure.js
 
 
